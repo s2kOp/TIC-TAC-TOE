@@ -30,10 +30,10 @@ To run the game locally, follow these steps:
     ```bash
     cd tic-tac-toe
     ```
-3. Open `index.html` in your web browser to start playing.
+3. Open `tictactoe.html` in your web browser to start playing.
 
 ## Usage
-- Open the `index.html` file in a web browser.
+- Open the `tictactoe.html` file in a web browser.
 - Players take turns clicking on the grid to place their X or O.
 - The game will automatically detect and highlight the winning line.
 
