@@ -33,7 +33,7 @@ To run the game locally, follow these steps:
 3. Open `tictactoe.html` in your web browser to start playing.
 
 ## Usage
-- Open the `tictactoe.html` file in a web browser.
+- Open the `index.html` file in a web browser.
 - Players take turns clicking on the grid to place their X or O.
 - The game will automatically detect and highlight the winning line.
 
@@ -53,6 +53,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [OpenAI](https://www.openai.com/) for providing assistance with the project.
 
 ## Files
-tictactoe.html    ##html
+index.html    ##html
 style.css         ##css
 main.js           ##javascript
